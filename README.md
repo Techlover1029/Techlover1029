@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Techlover1029
-- 👀 I’m interested in helping others with technologucal problems
-- 💞️ I’m looking to collaborate on anythin allow the lines of cybersecurity and full-stack developing
+- 👀 I’m interested in helping others with technological problems
+- 💞️ I’m looking to collaborate on anythin along the lines of cybersecurity and C# programming
 - 😄 Pronouns: he, him
-- Sexuality: Bi-sexual
 - ⚡ Fun fact: im surprisingly only 13
 
 <!---
