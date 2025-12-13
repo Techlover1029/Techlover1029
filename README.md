@@ -1,8 +1,38 @@
-- 👋 Hi, I’m @Techlover1029
-- 👀 I’m interested in helping others with technological problems
-- 💞️ I’m looking to collaborate on anythin along the lines of cybersecurity and C# programming
-- 😄 Pronouns: he, him
-- ⚡ Fun fact: im surprisingly only 13
+# Hi, I'm Jaiden 👋
+
+I'm a high school IT enthusiast, aspiring full-stack developer, and cybersecurity hobbyist. I love building projects, tinkering with tech, and mixing it up with music 🎶.  
+
+---
+
+## 💻 About Me
+- High school student passionate about coding, robotics, and automation
+- Exploring web development, server management, and cybersecurity
+- Experimenting with Raspberry Pi, ROCK4SE, Docker, Home Assistant and more
+- Musician: Violinist & singer
+
+---
+
+## 🔭 Current Projects
+- Offline-first PWA for managing a photography team’s gear  
+- Home automation with robotics & IoT devices  
+- Experimenting with full-stack web apps and cybersecurity tools  
+
+---
+
+## 🌱 Learning
+- Advanced web development (React, Node.js, Firebase)  
+- Cybersecurity and penetration testing  
+- Engineering concepts and IoT integration  
+
+---
+
+## 📫 Connect with Me
+- [Instagram](https://www.instagram.com/jaiden.on_/)
+
+---
+
+## ⚡ Fun Fact
+I mix my love for tech and music—sometimes building a project while practicing violin 🎻
 
 <!---
 Techlover1029/Techlover1029 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
