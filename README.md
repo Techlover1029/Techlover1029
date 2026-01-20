@@ -12,13 +12,6 @@ I'm a high school IT enthusiast, aspiring full-stack developer, and cybersecurit
 
 ---
 
-## 🔭 Current Projects
-- Offline-first PWA for managing a photography team’s gear  
-- Home automation with robotics & IoT devices  
-- Experimenting with full-stack web apps and cybersecurity tools  
-
----
-
 ## 🌱 Learning
 - Advanced web development (React, Node.js, Firebase)  
 - Cybersecurity and penetration testing  
